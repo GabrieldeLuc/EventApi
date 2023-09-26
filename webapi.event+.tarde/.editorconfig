@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0029: Cannot implicitly convert type 'Microsoft.EntityFrameworkCore.DbSet<webapi.event_.tarde.Domains.Usuario>' to 'webapi.event_.tarde.Domains.Usuario'
+dotnet_diagnostic.CS0029.severity = error
